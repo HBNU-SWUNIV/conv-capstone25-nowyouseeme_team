@@ -1,0 +1,4 @@
+train: ./data/train/images
+test: ./data/test/images
+val: ./data/valid/images
+
